@@ -1,4 +1,4 @@
-# Welcome to the Hardware repository
+# Welcome to all things Hardware!
 You will find videos of me installing, removing, and troubleshooting PC hardware.
 
 <h2>Videos involving RAM:</h2>
